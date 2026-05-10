@@ -124,10 +124,10 @@ MediFast-HealthCare/
 
 <p align="center">
   <img src="./images/Main.png" width="250" style="margin:5px; border-radius:10px;" />
-  <img src="./image/Ambulance.png" width="250" style="margin:5px; border-radius:10px;" />
-  <img src="./image/blood.png" width="250" style="margin:5px; border-radius:10px;" />
-  <img src="./image/free-medical.png" width="250" style="margin:5px; border-radius:10px;" />
-  <img src="./image/Health-Card.png" width="250" style="margin:5px; border-radius:10px;" />
+  <img src="./images/Ambulance.png" width="250" style="margin:5px; border-radius:10px;" />
+  <img src="./images/blood.png" width="250" style="margin:5px; border-radius:10px;" />
+  <img src="./images/free-medical.png" width="250" style="margin:5px; border-radius:10px;" />
+  <img src="./images/Health-Card.png" width="250" style="margin:5px; border-radius:10px;" />
 </p>
 
 
