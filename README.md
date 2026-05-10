@@ -7,7 +7,17 @@ A scalable and real-world **Hospital Management System** built with modern web t
 
 ---
 
-## 🚀 Live Overview
+## 🌐 Live Demo
+
+🚀 Official Website:  
+[MediFast HealthCare Live Site](https://www.medifasthealthcare.com?utm_source=chatgpt.com)  
+
+🏥 Hospital Admin / Doctor Panel:  
+[MediFast HealthCare Admin Panel](https://panel.medifasthealthcare.com?utm_source=chatgpt.com)  
+
+---
+
+## 🚀 Overview
 
 **MediFast HealthCare** is a full-featured healthcare platform with **multi-role access system (Admin, Doctor, Patient)** and a **Bangla-first UI experience**, designed for real hospital workflows.
 
@@ -127,3 +137,29 @@ A scalable and real-world **Hospital Management System** built with modern web t
 - Online pharmacy & delivery system 💊  
 
 ---
+
+## 🔐 Login Information (Demo)
+
+> Admin / Doctor / Patient login is available via the hospital panel.
+
+👉 Panel Access:  
+[Hospital Management Panel](https://panel.medifasthealthcare.com?utm_source=chatgpt.com)  
+
+---
+
+## 📌 Project Status
+
+🚧 Production Ready (Core System Completed)  
+⚡ Actively improving & scaling  
+
+---
+
+## ❤️ About This Project
+
+**MediFast HealthCare** is built to digitize hospital management in Bangladesh with a focus on **speed, usability, and real-world healthcare workflow automation**.
+
+---
+
+## ⭐ Support
+
+If you like this project, please give it a ⭐ on GitHub 🚀
