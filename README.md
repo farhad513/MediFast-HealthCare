@@ -10,22 +10,22 @@ A scalable and real-world **Hospital Management System** built with modern web t
 ## 🌐 Live Demo
 
 🚀 Official Website:  
-[MediFast HealthCare Live Site](https://www.medifasthealthcare.com?utm_source=chatgpt.com)  
+[MediFast HealthCare](https://www.medifasthealthcare.com)  
 
-🏥 Hospital Admin / Doctor Panel:  
-[MediFast HealthCare Admin Panel](https://panel.medifasthealthcare.com?utm_source=chatgpt.com)  
+🏥 Hospital Panel:  
+[MediFast Hospital](https://panel.medifasthealthcare.com)  
 
 ---
 
 ## 🚀 Overview
 
-**MediFast HealthCare** is a full-featured healthcare platform with **multi-role access system (Admin, Doctor, Patient)** and a **Bangla-first UI experience**, designed for real hospital workflows.
+**MediFast HealthCare** is a full-featured healthcare platform with **multi-role access system ( Hospital, Patient)** and a **Bangla-first UI experience**, designed for real hospital workflows.
 
 ---
 
 ## ✨ Key Features
 
-### 👨‍⚕️ Doctor Management System
+### 👨‍⚕️ Hospital Doctor Management System
 - Add / Update / Delete doctors  
 - Specialization & category management  
 - Experience & qualification tracking  
@@ -84,7 +84,7 @@ A scalable and real-world **Hospital Management System** built with modern web t
 
 ## 🔐 Authentication System
 - JWT-based secure authentication  
-- Role-based access control (Admin / Doctor / Patient)  
+- Role-based access control (Hospital / Patient)  
 - Protected API routes  
 - Secure session handling  
 
@@ -121,6 +121,7 @@ A scalable and real-world **Hospital Management System** built with modern web t
 ---
 
 ## 📦 Project Modules
+- Hospital Management System  
 - Doctor Management System  
 - Patient Management System  
 - Appointment System  
@@ -140,10 +141,10 @@ A scalable and real-world **Hospital Management System** built with modern web t
 
 ## 🔐 Login Information (Demo)
 
-> Admin / Doctor / Patient login is available via the hospital panel.
+> Admin / Hospital / Patient login is available via the hospital panel.
 
 👉 Panel Access:  
-[Hospital Management Panel](https://panel.medifasthealthcare.com?utm_source=chatgpt.com)  
+[Hospital Management Panel](https://panel.medifasthealthcare.com)  
 
 ---
 
