@@ -123,14 +123,13 @@ MediFast-HealthCare/
 👉 নিচে সবগুলো project image একসাথে সুন্দর grid আকারে দেখানো হয়েছে:
 
 <p align="center">
-  <img src="./image/admin.png" width="250" style="margin:5px; border-radius:10px;" />
-  <img src="./image/doctor.png" width="250" style="margin:5px; border-radius:10px;" />
-  <img src="./image/appointment.png" width="250" style="margin:5px; border-radius:10px;" />
-  <img src="./image/ambulance.png" width="250" style="margin:5px; border-radius:10px;" />
-  <img src="./image/dashboard.png" width="250" style="margin:5px; border-radius:10px;" />
+  <img src="./images/Main.png" width="250" style="margin:5px; border-radius:10px;" />
+  <img src="./image/Ambulance.png" width="250" style="margin:5px; border-radius:10px;" />
+  <img src="./image/blood.png" width="250" style="margin:5px; border-radius:10px;" />
+  <img src="./image/free-medical.png" width="250" style="margin:5px; border-radius:10px;" />
+  <img src="./image/Health-Card.png" width="250" style="margin:5px; border-radius:10px;" />
 </p>
 
-⚠️ Note: যদি তোমার image নাম ভিন্ন হয়, তাহলে শুধু filename গুলো তোমার প্রকৃত নাম অনুযায়ী update করো (যেমন admin.png, doctor.png ইত্যাদি)
 
 ---
 
